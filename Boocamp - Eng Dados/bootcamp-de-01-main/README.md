@@ -1,4 +1,4 @@
-# Bootcamp de Engenharia de Dados.
+# Bootcamp de Engenharia de Dados -  Stark.
 
 ### Para rodar a aplicação de ingestão faça:
 
